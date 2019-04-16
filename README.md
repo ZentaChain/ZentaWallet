@@ -1,5 +1,6 @@
 ## Zentawallet Android Mobile wallet.
 
+
 ##### Allows information to be stored or verified off-chain and on-chain
 
 ##### ERC20 Supported and Dapps, inklusive ZentaSwap
@@ -10,15 +11,14 @@
 
 
 #### Purpose ERC1386
-````
-Dieser ERC bietet eine Schnittstelle für Attestierungsaussteller, um ihre Attestierungssignaturschlüssel und die Attestierungen zu verwalten, die außerhalb der Kette für Aktionen wie Widerruf und Validierung ausgegeben werden.
 
-In unserem Entwurf enthalten wir Funktionen zum Halten kryptografischer Attestierungen, zum Ändern der ausstellenden Verträge von Attestierungen, zum Widerruf von Attestierungen und zum Überprüfen der Authentizität einer kryptographischen Attestierung.
+This ERC provides an interface for attestation issuers to manage their attestation signing keys and the attestations that are issued off chain for actions such as revocation and validation.
 
-````
+In our draft implementation we include functions to hold cryptographic attestations, change the issuing contracts of attestations, revoke attestations and verify the authenticity of a cryptographic attestation.
 
 #### Purpose ER875
-````
+
 While other standards allow the user to transfer a non-fungible token, they require one transaction per token, this is heavy on gas and partially responsible for clogging the ethereum network. There are also few definitions for how to do a simple atomic swap.
 
-````
+
+##### *Copyright all rights reserved Zentachain.io & 0xSha512 2019
