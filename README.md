@@ -23,4 +23,5 @@ Transferring/Trading NFT's efficiently
 
 While other standards allow the user to transfer a non-fungible token, they require one transaction per token, this is heavy on gas and partially responsible for clogging the ethereum network. There are also few definitions for how to do a simple atomic swap.
 
+##### This project is under active development, there may be breaking changes.
 ##### *Copyright all rights reserved Zentachain.io 2019
