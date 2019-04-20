@@ -11,6 +11,8 @@
 
 ##### Client infrastructure ensures that keys are stored locally, on your device ✔️
 
+##### Web3 ✔️
+
 
 #### Purpose ERC1386
 
