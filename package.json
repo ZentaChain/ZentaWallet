@@ -1,0 +1,12 @@
+{
+  "name": "zenta-wallet-android",
+  "version": "1.0.0",
+  "description": "Zentawallet, Zentachain, Zenta Web3.",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+};
