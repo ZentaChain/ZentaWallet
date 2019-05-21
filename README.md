@@ -30,7 +30,7 @@
 
 <!-- CHECKLIST-->
 
-##  - [✔️]  Zentawallet Android Mobile wallet.
+### - [✔️]  Zentawallet Android Mobile wallet.
 
 ### - [✔️] Allows information to be stored or verified off-chain and on-chain 
 
@@ -48,9 +48,8 @@
 <!-- ABOUT ZENTA WALLET -->
 
 
-##### *[This project is under active development, there may be breaking changes.]
-
-
 The Platform as you see is just an Addon to the whole ZentaChain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat). Our Team will help you out!
+
+##### *[This project is under active development, there may be breaking changes.]
 
 
