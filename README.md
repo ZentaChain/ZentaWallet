@@ -29,7 +29,7 @@
 </p>
 
 <!-- CHECKLIST-->
-
+<h3 align="center">
 ### - [✔️]  Zentawallet Android Mobile wallet.
 
 ### - [✔️] Allows information to be stored or verified off-chain and on-chain 
@@ -43,6 +43,7 @@
 ### - [✔️] Client infrastructure ensures that keys are stored locally, on your device 
 
 ### - [✔️] Web3 
+</h3>
 
 
 <!-- ABOUT ZENTA WALLET -->
