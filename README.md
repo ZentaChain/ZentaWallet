@@ -31,20 +31,20 @@
 <!-- CHECKLIST-->
 <h3 align="center">
 ### - [✔️]  Zentawallet Android Mobile wallet.
-
+  </h3>
+<h3 align="center">
 ### - [✔️] Allows information to be stored or verified off-chain and on-chain 
-
+</h3><h3 align="center">
 ### - [✔️] ERC20 & ERC721, ERC223 Supports and Dapps, inklusive ZentaSwap 
-
+<h3 align="center">
 ### - [✔️] ERC875 for non fungible tokens and simple atomic-swaps 
-
+</h3><h3 align="center">
 ### - [✔️] ERC1386 - Managing issuers of cryptographic attestations 
-
+<h3 align="center">
 ### - [✔️] Client infrastructure ensures that keys are stored locally, on your device 
-
+</h3><h3 align="center">
 ### - [✔️] Web3 
 </h3>
-
 
 <!-- ABOUT ZENTA WALLET -->
 
