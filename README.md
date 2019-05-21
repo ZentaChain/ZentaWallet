@@ -15,9 +15,9 @@
   <h3 align="center">Zentawallet Android Mobile wallet.</h3>
 
   <p align="center">
-   An Opensource Decentralized Exchange Platform From ZentaChain.
+   Welcome to the ZentaWallet Github Page!
     <br />
-    <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex"><strong>ZentaDEX</strong></a>
+    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zenat Wallet</strong></a>
     <br />
     <br />
     <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Github Docs»</a>
