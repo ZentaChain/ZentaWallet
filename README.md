@@ -52,4 +52,8 @@ The Platform as you see is just an Addon to the whole ZentaChain Univerese. If y
 
 ##### *[This project is under active development, there may be breaking changes.]
 
+##### If you support the cause, we could certainly use donations to help fund development:
+
+##### 0xbc8dAfeacA658Ae0857C80D8Aa6dE4D487577c63
+
 
