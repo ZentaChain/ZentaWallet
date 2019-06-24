@@ -12,7 +12,7 @@
     <img src="logo.png" alt="Logo" width="70" height="80">
   </a>
 
-  <h3 align="center">Zentawallet Android Mobile wallet.</h3>
+  <h5 align="center">Zentawallet Android Mobile wallet.</h5>
 
   <p align="center">
    Welcome to the ZentaWallet Github Page!
@@ -29,21 +29,21 @@
 </p>
 
 <!-- CHECKLIST-->
-<h3 align="center">
+<p align="center">
 Zentawallet Android Mobile wallet.[✔️]
-</h3><h3 align="center">
+</p><p align="center">
 Allows information to be stored or verified off-chain and on-chain [✔️]
-</h3><h3 align="center">
+</p><p align="center">
 ERC20 & ERC721, ERC223 Supports and Dapps, inklusive ZentaSwap [✔️]
-<h3 align="center">
+<p align="center">
 ERC875 for non fungible tokens and simple atomic-swaps [✔️]
-</h3><h3 align="center">
+</p><p align="center">
 ERC1386 - Managing issuers of cryptographic attestations [✔️]
-<h3 align="center">
+<p align="center">
 Client infrastructure ensures that keys are stored locally, on your device [✔️]
-</h3><h3 align="center">
+</p><p align="center">
 Web3 [✔️]
-</h3>
+</p>
 
 <!-- ABOUT ZENTA WALLET -->
 
