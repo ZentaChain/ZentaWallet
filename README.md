@@ -8,13 +8,13 @@
 <!-- Zenta LOGO -->
 <br />
 <p align="center">
-  <a href="zentachain.com">
+  <a href="zentachain.io">
     <img src="logo.png" alt="Logo" width="70" height="80">
   </a>
 
   <h5 align="center">Zentawallet Android Mobile wallet.</h5>
 
-  <p align="center">
+  <p align="center"><em>
    Welcome to the ZentaWallet Github Page!
     <br />
     <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zenat Wallet</strong></a>
