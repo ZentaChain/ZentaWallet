@@ -1,6 +1,6 @@
 
 <!--
-*** Hey, Welcome to ZentaChain READMEs. I hope you like it :)
+*** Hey, Welcome to Zentachain READMEs. I hope you like it :)
 -->
 
 
@@ -49,7 +49,7 @@ Web3 [✔️]
 <!-- ABOUT ZENTA WALLET -->
 
 
-The Platform as you see is just an Addon to the whole ZentaChain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat). Our Team will help you out!
+The Platform as you see is just an Addon to the whole Zentachain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat). Our Team will help you out!
 
 
 ##### *If you support the cause, we could certainly use donations to help fund development:*
