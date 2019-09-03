@@ -45,7 +45,7 @@ Client infrastructure ensures that keys are stored locally, on your device [✔�
 Web3 [✔️]
 </p>
 
-* [ ] Zentawallet bug after start the application is crashing 16.08.2019
+* [x] Zentawallet bug after start the application is crashing 16.08.2019
 <!-- ABOUT ZENTA WALLET -->
 
 
