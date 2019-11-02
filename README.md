@@ -52,11 +52,7 @@ Web3 [✔️]
 
 
 The Platform as you see is just an Addon to the whole Zentachain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat). Our Team will help you out!
-
-
-##### *If you support the cause, we could certainly use donations to help fund development:*
-
-##### *Ethereum: 0xbc8dAfeacA658Ae0857C80D8Aa6dE4D487577c63* 
+##### *Important !Zentwallet will be included in Zentalk!* 
 
 ##### *[This project is under active development, there may be breaking changes.]*
 
