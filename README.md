@@ -45,11 +45,6 @@ Client infrastructure ensures that keys are stored locally, on your device [✔�
 Web3 [✔️]
 </p>
 
-<h3> Zentawallet Timestamp</h3>
-
-* [x] Zentawallet bug after start the application is crashing 04.09.2019 Fixed 
-<!-- ABOUT ZENTA WALLET -->
-
 
 The Platform as you see is just an Addon to the whole Zentachain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat). Our Team will help you out!
 ##### *Important !Zentwallet will be included in Zentalk!* 
