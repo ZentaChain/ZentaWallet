@@ -17,7 +17,7 @@
   <p align="center"><em>
    Welcome to the Zentawallet Github Page!
     <br />
-    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zenatwallet</strong></a>
+    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zentawallet</strong></a>
     <br />
     <br />
     <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Github Docs»</a>
@@ -30,8 +30,8 @@
 
 <!-- CHECKLIST-->
 
-The Platform as you see is just an Addon to the whole Zentachain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat).
-##### *Important !Zentwallet will be included in our App Zentalk!* 
+The Platform you see is just an addon to the whole Zentachain universe. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegram](https://t.me/ZentachainOfficialChat).
+##### *Important !Zentawallet will be included in our App Zentalk!* 
 
 ##### *[This project is under active development, there may be breaking changes.]*
 
