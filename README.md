@@ -31,7 +31,7 @@
 <!-- CHECKLIST-->
 
 The Platform as you see is just an Addon to the whole Zentachain Univerese. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegramm](https://t.me/ZentachainOfficialChat).
-##### *Important !Zentwallet will be included in Zentalk!* 
+##### *Important !Zentwallet will be included in our App Zentalk!* 
 
 ##### *[This project is under active development, there may be breaking changes.]*
 
