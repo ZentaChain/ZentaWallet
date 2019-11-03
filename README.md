@@ -15,9 +15,9 @@
   <h5 align="center">Zentawallet Android Mobile wallet.</h5>
 
   <p align="center"><em>
-   Welcome to the ZentaWallet Github Page!
+   Welcome to the Zentawallet Github Page!
     <br />
-    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zenat Wallet</strong></a>
+    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zenatwallet</strong></a>
     <br />
     <br />
     <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Github Docs»</a>
