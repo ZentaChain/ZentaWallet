@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="zentachain.io">
-    <img src="logo.png" alt="Logo" width="70" height="80">
+    <img src="zentachainlogoblack.png" alt="Logo" width="70" height="80">
   </a>
 
   <h5 align="center">Zentawallet Android Mobile wallet.</h5>
