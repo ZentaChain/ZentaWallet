@@ -30,7 +30,6 @@
 
 <!-- CHECKLIST-->
 
-The Platform you see is just an addon to the whole Zentachain universe. If you like you can contact us over Email , [Twitter](https://twitter.com/zentachain) or [Telegram](https://t.me/ZentachainOfficialChat).
 ##### *Important! Zentawallet will be included in our App Zentalk!* 
 
 ##### *[This project is under active development, there may be breaking changes.]*
