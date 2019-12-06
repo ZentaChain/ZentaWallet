@@ -6,13 +6,6 @@
    Welcome to the Zentawallet Github Page!
     <br />
     <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zentawallet</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Github Docs»</a>
-    ·
-    <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Report Bug</a>
-    ·
-    <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex">Request a Change!</a>
   </p>
 </p>
 
