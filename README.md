@@ -5,7 +5,7 @@
   <p align="center"><em>
    Welcome to the Zentawallet Github Page!
     <br />
-    <a href="https://github.com/ZentaChain/Zentawallet/"><strong>Zentawallet</strong></a>
+    <a href="https://github.com/ZentaChain/Zentalk-Mobile-Android/"><strong>Zentawallet</strong></a>
   </p>
 </p>
 
