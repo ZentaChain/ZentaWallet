@@ -8,7 +8,7 @@
 
 <!-- CHECKLIST-->
 
-<h5 align="center">Important! Zentawallet will be included in our App Zentalk!</h5>
+<h5 align="center">Important! Zentawallet will be included in our App Zentalk and later also as a stand alone Wallet called Zentawallet!</h5>
  <p align="center">
   <a href="https://github.com/ZentaChain/Zentalk-Mobile-Android/"><strong>Zentawallet</strong></a>
  </p>
