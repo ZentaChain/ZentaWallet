@@ -1,6 +1,6 @@
 
 
- ## Zentawallet Android Mobile Wallet
+ ## Zentawallet Mobile Wallet
  
 <!-- CHECKLIST-->
 
